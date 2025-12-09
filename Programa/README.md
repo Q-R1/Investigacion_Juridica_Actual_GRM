@@ -1,17 +1,15 @@
 # 📚 Programa del curso
 
-⚖️ Investigación Jurídica Actual 
+⚖️ **Investigación Jurídica Actual: Guía de Renovación Metodológica**  
 
-- Ciclo: 2025
 - Modalidad: Presencial
-
-- Horario:
-  - Lunes a Viernes: 🕓 16:00 - 19:00 hrs
-
+- Horas: 20
+- Periodo: Del 10 al 19 de diciembre de 2025 (excepto días inhábiles) 
+- Horario: Lunes a Viernes: 🕓 16:00 - 19:00 hrs
 
 # Objetivo
 
-Conocer y desarrollar el método científico en el trialismo jurídico reflexivo y necesario frente a las transformaciones democráticas y tecnológicas que caracterizan los modelos contemporáneos de justicia social.
+Fortalecer las competencias metodológicas de quienes poseen formación previa en investigación jurídica, mediante la actualización de enfoques teóricos, técnicas analíticas y herramientas digitales contemporáneas, con el fin de mejorar la calidad, rigor y pertinencia de los estudios jurídicos desarrollados en el contexto actual.
 
 # Criterios de evaluación 
 
